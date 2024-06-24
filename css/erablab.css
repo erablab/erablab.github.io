@@ -1,0 +1,46 @@
+/* Extra css file for personal jemdoc customizations. */
+
+a, a > tt {
+	color: #68a678;
+}
+a:hover {
+	border-bottom: 1px #68a678 dotted;
+}
+
+#layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #68a678;
+	border-bottom: 1px gray solid;
+}
+#layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
+	color: #97bba0;
+	text-decoration: none;
+}
+
+div#toptitle {
+	margin-bottom: 1.3em;
+	border-bottom: 1px solid #c0c0c0;
+}
+
+h1, h2, h3, #layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #568261;
+}
+
+h1, h2, h3 {
+	border-bottom: 1px solid #c0c0c0;
+}
+
+div#footer-text {
+	padding-bottom: 0;
+}
+
+div.blocktitle {
+	color: #568261;
+}
+
+div.blockcontent {
+	border: 1px solid #c0c0c0;
+}
+
+div#footer-text {
+	padding-bottom: 8px;
+}

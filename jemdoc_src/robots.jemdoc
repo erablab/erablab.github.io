@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{robots.html}, nofooter
+= Robots
+
+== Custom-built
+
+# ~~~
+# {}{img_left}{images/robots/sloth-moth-bot.jpg}{slothmothbot}{150}{}{}
+# Sloth-moth-bot
+# ~~~
+
+~~~
+{}{img_left}{images/robots/brushbot.jpg}{brushbot}{150}{}{}
+Quixotic Robotics Brushbots
+~~~
+
+== Off-the-shelf
+
+~~~
+{}{img_left}{images/robots/seeker.jpg}{seeker}{150}{}{}
+Modal AI Seeker
+~~~
+
+~~~
+{}{img_left}{images/robots/sentinel.jpg}{sentinel}{150}{}{}
+Modal AI Sentinel
+~~~
+
+~~~
+{}{img_left}{images/robots/limo.jpg}{limo}{150}{}{}
+AgileX Limo
+~~~
+
+~~~
+{}{img_left}{images/robots/robomaster_ep.jpg}{robomaster_ep}{150}{}{}
+DJI RoboMaster EP
+~~~
+
+~~~
+{}{img_left}{images/robots/senseglove.jpg}{senseglove}{150}{}{}
+SenseGlove DK1
+~~~

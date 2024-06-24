@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+== 2024
+
+: {title}
+authors
+\n /journal\/conference/
+\n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]
+
+== 2023
+
+: {title}
+authors
+\n /journal\/conference/
+\n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]
+
+== 2022
+
+: {title}
+authors
+\n /journal\/conference/
+\n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]

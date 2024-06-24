@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research
+
+== Robot design for climate change ecological studies
+
+~~~
+{}{img_left}{images/research/robot_for_ecological_studies.jpg}{robot for ecological studies}{350}{}{}
+~~~
+
+The beginning of the Industrial Age marked the advent of autonomous machines able to intelligently control themselves: a decisive change in the way we affect the environment in which we live. Human activities, supported by such machines, have led to the release of large amounts of carbon dioxide and other greenhouse gases into the atmosphere, which have influenced Earth’s climate. We are experiencing the effects of climate change in different ways, including higher temperature of Earth's atmosphere, more floods and droughts, and more frequent and severe heat waves and hurricanes. Today we can leverage autonomous machines to help us mitigate and adapt to the effects of climate change by monitoring the environment. Two important features of robotic systems deployed over long time horizons in an unknown environment tasked with monitoring it are *eco­compatibility* and *resilience*. An ecocompatible robotic system lives in harmony with the environment where it is deployed, while a resilient robotic systems is able to structurally change its behavior in response to unexpected or unmodeled events.
+
+Along these lines of research, we aim to create ecocompatible and resilient robotic systems to be employed in climate change mitigation and adaptation initiatives. To achieve this goal, we
+. Take inspiration from ecological principles to build eco­compatible robots that can be safely deployed to collect data in unknown environments for long time periods
+. Develop control frameworks capable of endowing robots with resilient properties, allowing them to react and recover to unexpected environmental phenomena by changing their behaviour in order to survive
+. Identify and try to overcome the obstructions that prevent the deployment of robotic system for sustained periods of time in the real world
+
+== Multi-robot long-term environmental monitoring
+
+~~~
+{}{img_left}{images/research/multi_robot_environmental_monitoring.jpg}{multi-robot environmental monitoring}{350}{}{}
+~~~
+
+Multi-robot systems are particularly suitable for long-term environmental monitoring thanks to their ability to cover large spatial domains using relatively simple robotic units. Moreover, owing to the large number of robots of which they are comprised, multi-robot systems exhibit the resilience properties required to remain operational over sustained amounts ot time. Applications of long-term environmental monitoring include conservation studies, forest health monitoring, automated agriculture, but also monitoring of urban areas and safety-critical infrastructures.
+
+Our goal is to develop control frameworks that allow teams of robots to perform environmental monitoring over large spatial domains and long time horizons. The objective of such frameworks is to optimize the motion of the robots in order to maximize the amount of information collected. *Coordination* among the robots is required in order to achieve an effective deployment. Additional functional requirements of the developed monitoring frameworks are defined starting from the following observations:
+- When the number of robots and the size of the spatial domain to monitor increase, a *scalable* distributed decision-making algorithm is required
+- When the length of the time horizon increases, each robot has to necessarily account for its limited availability of *energy* during the execution of the monitoring task
+
+== Human-multi-robot interaction
+
+~~~
+{}{img_left}{images/research/hmrs.jpg}{human multi robot systems}{350}{}{}
+~~~
+
+High level cognitive capabilities of humans can help teams of robots significantly improve their awareness. This is particularly important when robots are deployed for sustained amounts of time in unknown and ever-changing environments. In these settings, understanding the surroundings is crucial to ensure survivability. While the benefit is clear, challenges arise in the real world implementation of human-multi-robot systems.
+
+Our strategy to tackle such challenges consists in defining interfaces between humans and teams of robots which
+- Are *intuitive*
+- Render the robotic systems *safe*
+
+Intuitiveness is intended as the property of requiring low cognitive load for the humans cooperating with the robots. Safety is considered both in cases of remote interaction modalities that allow exchange of energy between humans and robots (e.g. haptic interfaces) as well as in scenarios where humans share the same physical workspace with the robots.
