@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{}, nofooter
+= Pre-ACC minisymposium @ University of Waterloo
+== Friday, July 5, 2024 \n E7 7363
+
+~~~
+{}{img_left}{images/pre_acc_minisymposium/pre_acc_minisymposium.jpg}{pre-ACC minisymposium}{640}{480}{}
+~~~
+
+== Schedule
+
+~~~
+{}{img_left}{images/pre_acc_minisymposium/riku_funada.jpg}{riku}{150}{}{}
+14:30--15:00
+\n\n
+/Coverage Hole Prevention for Environmental Monitoring with Quadcopters/
+\n
+\[[/files/pre_acc_minisymposium/pre_acc_minisymposium_slides_riku_funada.pdf slides]\]
+\n\n
+Prof. Riku Funada
+\n
+Tokyo Institute of Technology
+~~~
+
+~~~
+{}{img_left}{images/pre_acc_minisymposium/takeshi_hatanaka.jpg}{takeshi}{150}{}{}
+15:00--15:40
+\n\n
+/Coverage Control Meets Visual 3D Reconstruction Technology/
+\n
+\[[/files/pre_acc_minisymposium/pre_acc_minisymposium_slides_takeshi_hatanaka.pdf slides]\]
+\n\n
+Prof. Takeshi Hatanaka
+\n
+Tokyo Institute of Technology
+~~~
+
+\n\n 15:40--15:50 /Coffee break/ \n\n
+
+~~~
+{}{img_left}{images/pre_acc_minisymposium/logan_beaver.jpg}{logan}{150}{}{}
+15:50--16:30
+\n\n
+/Optimal Control of Differentially Flat Systems is Surprisingly Easy/
+\n
+\[[/files/pre_acc_minisymposium/pre_acc_minisymposium_slides_logan_beaver.pdf slides]\]
+\n\n
+Prof. Logan Beaver
+\n
+Old Dominion University
+~~~
