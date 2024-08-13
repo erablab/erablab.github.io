@@ -1,23 +1,47 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
-== 2024
+: {Design and Density Control of a Swarm of Bimodal Particles}
+Justine Shaw and Gennaro Notomista
+\n /International Symposium on Distributed Autonomous Robotic Systems, 2024/
 
-: {title}
-authors
-\n /journal\/conference/
-\n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]
+: {Stable, Safe, and Passive Teleoperation of Multi-Robot Systems}
+G. Notomista
+\n /IEEE International Conference on Robotics and Automation, 2024/
 
-== 2023
+: {A Safe and Computationally Efficient Tracking Control Algorithm for Autonomous Vehicles}
+G. Notomista and Y. Wardi
+\n /American Control Conference, 2024/
 
-: {title}
-authors
-\n /journal\/conference/
-\n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]
+: {Relaxed Pfaffian Constraints with Application to the Minimum-Energy Control of Swarms of Brushbots}
+G. Notomista
+\n /American Control Conference, 2023/
 
-== 2022
+: {A Constrained-Optimization Approach to the Execution of Prioritized Stacks of Learned Multi-Robot Tasks}
+G. Notomista
+\n /International Symposium on Distributed Autonomous Robotic Systems, 2022/
 
-: {title}
-authors
-\n /journal\/conference/
-\n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]
+: {What Can Robots Teach Us About The COVID-19 Pandemic? Interactive Demonstrations of Epidemiological Models Using a Swarm of Brushbots}
+G. Notomista and S. Mayya
+\n /IEEE International Conference on Advanced Robotics and its Social Impacts, 2022/
+
+: {Resilience and Energy-Awareness in Constraint-Driven-Controlled Multi-Robot Systems}
+G. Notomista
+\n /American Control Conference, 2022/
+
+: {Multi-Robot Persistent Environmental Monitoring Based on Constraint-Driven Execution of Learned Robot Tasks}
+G. Notomista, C. Pacchierotti, and P. Robuffo Giordano
+\n /IEEE International Conference on Robotics and Automation, 2022/
+
+: {Safe Reinforcement Learning Using Robust Control Barrier Functions}
+Y. Emam, G. Notomista, P. Glotfelter, Z. Kira, and M. Egerstedt
+\n /IEEE Robotics and Automation Letters, 2022/
+
+: {Controlling Collision-Induced Aggregations in a Swarm of Micro Bristle-Robots}
+Z. Hao, S. Mayya, G. Notomista, S. Hutchinson, M. Egerstedt, and A. Ansari
+\n /IEEE Transactions on Robotics, Vol. 39, No. 1, pp. 590-604, 2022/
+
+# : {title}
+# authors
+# \n /journal\/conference/
+# \n \[[/pdf.pdf pdf]\], \[[https://youtube.com/video.html video]\], \[[https://github.com/code.html code]\]
