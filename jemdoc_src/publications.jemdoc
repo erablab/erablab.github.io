@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Reactive Robot Navigation Using Quasi-conformal Mappings and Control Barrier Functions}
+Gennaro Notomista, Gary P. T. Choi, and Matteo Saveriano
+\n /IEEE Transactions on Control Systems Technology, 2025/
+
 : {Design and Density Control of a Swarm of Bimodal Particles}
 Justine Shaw and Gennaro Notomista
 \n /International Symposium on Distributed Autonomous Robotic Systems, 2024/
