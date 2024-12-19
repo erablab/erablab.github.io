@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Value Iteration for Learning Concurrently Executable Robotic Control Tasks}
+Sheikh A. Tahmid and Gennaro Notomista
+\n /International Conference on Autonomous Agents and Multi-Agent Systems, 2025/
+
 : {Reactive Robot Navigation Using Quasi-conformal Mappings and Control Barrier Functions}
 Gennaro Notomista, Gary P. T. Choi, and Matteo Saveriano
 \n /IEEE Transactions on Control Systems Technology, 2025/
