@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Decentralized Density Control of Robotic Swarms Using PDE-constrained Optimization}
+Longchen Niu and Gennaro Notomista
+\n /IEEE Robotics and Automation Letters, 2025/
+
 : {Value Iteration for Learning Concurrently Executable Robotic Control Tasks}
 Sheikh A. Tahmid and Gennaro Notomista
 \n /International Conference on Autonomous Agents and Multi-Agent Systems, 2025/
