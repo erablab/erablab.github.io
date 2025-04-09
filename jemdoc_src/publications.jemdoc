@@ -1,6 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Energy-Aware Coordination of Heterogeneous Robotic Systems with Mobile Charging Stations for Long-Term Environmental Monitoring}
+A. Nasif and G. Notomista
+\n /Mediterranean Conference on Control and Automation, 2025/
+
+: {Decentralized Control of Robotic Swarm Density via PDE-Constrained Optimization}
+Z. Wang, R. Guglielmi, and G. Notomista
+\n /Mediterranean Conference on Control and Automation, 2025/
+
+: {Optimization-based Haptic Feedback Synthesis for Passive Human-multi-robot Systems}
+R. Anjum and G. Notomista
+\n /Mediterranean Conference on Control and Automation, 2025/
+
 : {Decentralized Density Control of Robotic Swarms Using PDE-constrained Optimization}
 L. Niu and G. Notomista
 \n /IEEE Robotics and Automation Letters, 2025/
