@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Boundary Control for Stability and Invariance of Traffic Flow Dynamics: A Convex Optimization Approach}
+M.T. Chiri, R. Guglielmi, and G. Notomista
+\n /IEEE Control Systems Letters, 2025/
+
 : {Music-driven Robot Swarm Painting}
 J. Cheng and G. Notomista
 \n /IEEE International Conference on Advanced Robotics and its Social Impacts, 2025/
