@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Stable Haptic Shared Autonomy for Wall Landing of Two-Wheeled Drones via Control Barrier Functions}
+S. Tanaka, S. Nakano, G. Notomista, and M. Yamada
+\n /Annual Conference of the IEEE Industrial Electronics Society, 2025/
+
 : {Energy-Aware Task Allocation for Teams of Multi-mode Robots}
 T. Ito, R. Funada, M. Sampei, and G. Notomista
 \n /IEEE Control Systems Letters, 2025/
