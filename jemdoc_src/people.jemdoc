@@ -2,13 +2,13 @@
 = People
 
 ~~~
-{}{img_left}{images/bios/gennaro_notomista.jpg}{gennaro}{150}{}{https://www.gnotomista.com}
+{}{img_left}{images/bios/gennaro_notomista.jpg}{gennaro}{150}{}{}
 [https://www.gnotomista.com Gennaro Notomista] \n /Assistant professor/
 ~~~
 
 ~~~
 {}{img_left}{images/bios/andrew_nasif.jpg}{andrew}{150}{}{}
-[andrew.nasif@uwaterloo.ca Andrew Adel Shenouda Nasif] \n /PhD student/
+[https://www.linkedin.com/in/andrewnasif Andrew Nasif] \n /PhD student/
 ~~~
 
 ~~~
@@ -17,33 +17,47 @@
 ~~~
 
 ~~~
-{}{img_left}{images/bios/tahmid_sheikh.jpg}{tahmid}{150}{}{}
-[sheikh.abrar.tahmid@uwaterloo.ca Sheikh Abrar Tahmid] \n /MASc student/
+{}{img_left}{images/bios/samuel_street.jpg}{samuel}{150}{}{}
+[https://www.linkedin.com/in/samuelstreet/ Samuel Street] \n /MASc student/
 ~~~
 
-== Visiting scholars
+~~~
+{}{img_left}{images/bios/eryn_vaid.jpg}{eryn}{150}{}{}
+[evaid@uwaterloo.ca Eryn Vaid] \n /MASc student/
+~~~
 
-- Filippo Bernabei, Università degli Studi di Modena e Reggio Emilia
-- Satoshi Nakano, Nagoya Institute of Technology
+~~~
+{}{img_left}{images/bios/kaurisan_selvarasa.jpg}{kaurisan}{150}{}{}
+[https://hariselva.github.io/Portfolio/ Kaurisan Selvarasa] \n /MEng student/
+~~~
 
-== Graduate research assistants
+~~~
+{}{img_left}{images/bios/ghazaleh_sedaghatmotlagh.jpg}{ghazaleh}{150}{}{}
+[gsedaghatmotlagh@uwaterloo.ca Ghazaleh SedaghatMotlagh] \n /MEng student/
+~~~
 
-- Kaurisan Selvarasa
+~~~
+{}{img_left}{images/bios/rishith_bomman.jpg}{rishith}{150}{}{}
+[https://www.linkedin.com/in/rishith-bomman/ Rishith Bomman] \n Co-op student
+~~~
 
-== Undergraduate research assistants
-
-- Aadila Ali Sabry
-- Rishith Bomman
+~~~
+{}{img_left}{images/bios/satoshi_nakano.jpg}{satoshi}{150}{}{}
+[https://mcontrol.web.nitech.ac.jp/nakano/ Satoshi Nakano] \n Visiting professor \n Nagoya Institute of Technology
+~~~
 
 == Alumni
 
+- Sheikh Abrar Tahmid, MASc student, Fall 2023 -- Spring 2025
+- Aadila Ali Sabry, undergraduate research assistant, Spring 2025
+- Filippo Bernabei, visiting scholar, Università degli Studi di Modena e Reggio Emilia, Winter -- Spring 2025
+- Muhammad Ahmed, Chinedum Onwughalu, Safeer Rafique, high-shool co-op students, Spring 2025
 - Jingde Cheng, MEng student, Fall 2024
 - Adam Colwell, high-school co-op student, Fall 2024 -- Winter 2025
 - Takumi Ito, visiting scholar, Institute of Science Tokyo, Fall 2024 -- Winter 2025
 - Ziyi Wang, MMath student, Winter 2024 -- Fall 2024
-- Gabriel Luo, undergraduate researcher, Fall 2023 -- Winter 2024
-- Yoyo Yuan, high-school co-op student, Winter -- Spring 2023
-- Sean Wang, high-school co-op student, Winter -- Spring 2023
+- Gabriel Luo, undergraduate research assistant, Fall 2023 -- Winter 2024
+- Yoyo Yuan, Sean Wang, high-school co-op students, Winter -- Spring 2023
 - Ramisha Anjum, MASc student, Winter 2023 -- Fall 2024
-- Cheng Tang, undergraduate researcher, Fall 2022 -- Winter 2023
+- Cheng Tang, undergraduate research assistant, Fall 2022 -- Winter 2023
 - Justine Shaw, MASc student, Fall 2022 -- Spring 2024
