@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Safe Decentralized Density Control of Multi-Robot Systems using PDE-Constrained Optimization with State Constraints}
+L. Niu and G. Notomista
+\n /IEEE International Symposium on Multi-Robot and Multi-Agent Systems, 2025/
+
 : {Stable Haptic Shared Autonomy for Wall Landing of Two-Wheeled Drones via Control Barrier Functions}
 S. Tanaka, S. Nakano, G. Notomista, and M. Yamada
 \n /Annual Conference of the IEEE Industrial Electronics Society, 2025/
