@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Necessary and Sufficient Conditions for the Optimization-Based Concurrent Execution of Learned Robotic Tasks}
+S. A. Tahmid and G. Notomista
+\n /American Control Conference, 2026/
+
 : {Safe Decentralized Density Control of Multi-Robot Systems using PDE-Constrained Optimization with State Constraints}
 L. Niu and G. Notomista
 \n /IEEE International Symposium on Multi-Robot and Multi-Agent Systems, 2025/
