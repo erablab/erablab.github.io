@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Distributed Analytic Center Selection for Resilient Control of Multi-robot Systems with Imperfect Communication Channels}
+G. Notomista
+\n /International Conference on Swarm Intelligence, 2026/
+
 : {Necessary and Sufficient Conditions for the Optimization-Based Concurrent Execution of Learned Robotic Tasks}
 S. A. Tahmid and G. Notomista
 \n /American Control Conference, 2026/
