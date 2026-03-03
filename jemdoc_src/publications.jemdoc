@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {“It Is Much Safer to Be Sparse than Connected”: Safe Control of Robotic Swarm Density Dynamics with PDE-Optimization with State Constraints}
+L. Niu and G. Notomista
+\n /Advanced Intelligent Systems, 2026/
+
 : {Distributed Analytic Center Selection for Resilient Control of Multi-robot Systems with Imperfect Communication Channels}
 G. Notomista
 \n /International Conference on Swarm Intelligence, 2026/
