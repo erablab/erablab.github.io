@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Optimization-based One-side Boundary Control of LWR Traffic Models}
+E. Vaid, M. T. Chiri, R. Guglielmi, and G. Notomista
+\n /International Symposium on Mathematical Theory of Networks and Systems, 2026/
+
 : {“It Is Much Safer to Be Sparse than Connected”: Safe Control of Robotic Swarm Density Dynamics with PDE-Optimization with State Constraints}
 L. Niu and G. Notomista
 \n /Advanced Intelligent Systems, 2026/
