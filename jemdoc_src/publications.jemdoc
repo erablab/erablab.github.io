@@ -1,6 +1,14 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {α-stability of Differentially Flat Systems with Application to Newton-Raphson Tracking Control for Vehicle Dynamics}
+A. Ali Sabry and G. Notomista
+\n /IEEE International Conference on Intelligent Transportation Systems, 2026/
+
+: {Safe and Energy-Aware Multi-Robot Density Control via PDE-Constrained Optimization for Long-Duration Autonomy}
+L. Niu, A. Nasif, and G. Notomista
+\n /IEEE International Conference on Intelligent Transportation Systems, 2026/
+
 : {Optimization-based One-side Boundary Control of LWR Traffic Models}
 E. Vaid, M. T. Chiri, R. Guglielmi, and G. Notomista
 \n /International Symposium on Mathematical Theory of Networks and Systems, 2026/
