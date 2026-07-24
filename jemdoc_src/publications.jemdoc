@@ -1,6 +1,14 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+: {Disentangled Control of Multi-Agent Systems}
+R. Lin, G. Notomista, and M. Egerstedt
+\n /IEEE Transactions on Control of Network Systems, 2026/
+
+: {Safe and Energy-Aware Decentralized PDE-Constrained Optimization-Based Control of Multi-UAVs for Persistent Wildfire Suppression}
+L. Niu and G. Notomista
+\n /International Symposium on Distributed Autonomous Robotic Systems, 2026/
+
 : {α-stability of Differentially Flat Systems with Application to Newton-Raphson Tracking Control for Vehicle Dynamics}
 A. Ali Sabry and G. Notomista
 \n /IEEE International Conference on Intelligent Transportation Systems, 2026/
