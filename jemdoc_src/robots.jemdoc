@@ -3,10 +3,10 @@
 
 == Custom-built
 
-# ~~~
-# {}{img_left}{images/robots/sloth-moth-bot.jpg}{slothmothbot}{150}{}{}
-# Sloth-moth-bot
-# ~~~
+~~~
+{}{img_left}{images/robots/slothbot_w.jpg}{slothbot_w}{150}{}{}
+SlothBot W
+~~~
 
 ~~~
 {}{img_left}{images/robots/brushbot.jpg}{brushbot}{150}{}{}
